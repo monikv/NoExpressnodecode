@@ -1,5 +1,5 @@
 {"House":
-    [{  "Id":1,
+    [{  
         "Type":"Condo",
         "Year":2001,
         "Area":474,
@@ -7,7 +7,7 @@
         "Price":173000,
         "Image":"https://www.cebubestcondominium.com/wp-content/uploads/2016/02/front-view-amisa.jpg"
         },
-        {   "Id":2,
+        {  
             "Type":"Condo",
             "Year":2002,
             "Area":474,
@@ -15,7 +15,7 @@
             "Price":160000,
             "Image":"https://winnipegsbestmortgage.com/wp-content/uploads/2015/02/condo.jpg"
             },
-            {   "Id":3,
+            {  
                 "Type":"Apartment",
                 "Year":2003,
                 "Area":482,
@@ -24,7 +24,7 @@
                 "Image":"https://image.shutterstock.com/image-photo/tampere-finland-07052020-urban-environment-600w-1926315242.jpg"
                 },
                 {
-                    "Id":4,
+                    
                     "Type":"Commercial",
                     "Year":2004,
                     "Area":900,
@@ -33,7 +33,7 @@
                     "Image":"https://www.mmarchitecturalphotography.com/chicago-architectural-photographer/uploads/2018/04/night-photographs-commercial-buildings.jpg"
                     },
                     {
-                        "Id":5,
+                       
                         "Type":"Cottage",
                         "Year":2005
                         ,"Area":700,
